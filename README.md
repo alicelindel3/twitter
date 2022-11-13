@@ -1,6 +1,6 @@
 # 【Seq2Seq+Attention+Colab】
 
-Section1　[Twitter API](https://developer.twitter.com/)  
+Section1　Twitter API
 
 Section2　RNNとSeq2Seq
 

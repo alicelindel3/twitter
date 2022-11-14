@@ -12,6 +12,6 @@ Section5　Attentionの導入
 
 Section6　Twitterボットのデプロイ
 
-[Twitter API利用申請](https://www.itti.jp/web-direction/how-to-apply-for-twitter-api/)  
+[Twitter API利用申請](https://qiita.com/seiji1997/items/9b901351f741cf49e579)  
 [Tweepy Documentationt](https://docs.tweepy.org/en/stable/index.html)  
 [tweepy + Twitter API V2でツイート](https://qiita.com/penguinprogrammer/items/b220be0c203eaaad015a)
